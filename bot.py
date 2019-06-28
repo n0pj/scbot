@@ -44,10 +44,10 @@ def main():
                                 pool.map(get_img, zip(range(len(result)), result, save_dir_list))
                             print("complete")
                             print(time.time()-time1)
-            print("complete", time.time()-time1)
+
                         except KeyboardInterrupt:
                             sys.exit()
-
+        print("complete", time.time()-time1)
 
 if __name__ == "__main__":
     main()
