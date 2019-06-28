@@ -33,7 +33,7 @@ def main():
                             result = bot.search_query("automotive "+l, int(1000))
                             error = []
                             result_list = [o for o in range(len(result))]
-                            with Pool(8) as pool:
+                            with Pool() as pool:
                                 
                                 save_dir = data_dir + i + "/" + j + "/" + k + "/" + l + "/"
                                 save_dir_list = []
