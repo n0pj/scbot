@@ -1,0 +1,1057 @@
+{
+    "A": {
+        "Argentina": {
+            "current": [
+                "Zanella"
+            ],
+            "defunct": [
+                "Anasagasti",
+                "AutoLatina",
+                "Autoar",
+                "Crespi",
+                "Eniak",
+                "Hispano-Argentina",
+                "IAVA",
+                "IAME",
+                "IKA",
+                "Koller",
+                "Sevel Argentina",
+                "SIAM Di Tella"
+            ]
+        },
+        "Australia": {
+            "current": [
+                "Borland Racing Developments",
+                "Brabham Automotive",
+                "Ford Australia",
+                "Holden",
+                "Holden Special Vehicles (HSV)"
+            ],
+            "defunct": [
+                "Ford Performance Vehicles (FPV)"
+            ]
+        },
+        "Austria": {
+            "current": [
+                "Austro-Daimler",
+                "Austro-Fiat",
+                "Austro-Tatra",
+                "Denzel",
+                "Felber",
+                "KTM",
+                "Libelle",
+                "Lohner-Porsche",
+                "Magna Steyr",
+                "M\u00f6ve",
+                "Puch",
+                "Steyr",
+                "Steyr-Daimler-Puch",
+                "Tushek&Spigel Supercars"
+            ]
+        },
+        "Azerbaijan": {
+            "current": [
+                "AzSamand",
+                "Ganja Auto Plant",
+                "Nakhchivan Automobile Plant"
+            ]
+        }
+    },
+    "B": {
+        "Bangladesh": {
+            "current": [
+                "BMTF"
+            ]
+        },
+        "Belgium": {
+            "current": [
+                "Auto-Mixte",
+                "FN",
+                "Gillet",
+                "Imperia",
+                "M\u00e9tallurgique",
+                "Minerva",
+                "Nagant",
+                "Pieper",
+                "Van Hool"
+            ]
+        },
+        "Brazil": {
+            "current": [
+                "Agrale",
+                "Brasinca",
+                "Comil",
+                "Marcopolo",
+                "Mascarello",
+                "Neobus",
+                "Romi",
+                "Puma",
+                "TAC",
+                "Troller"
+            ],
+            "defunct": [
+                "Busscar",
+                "Dacon",
+                "Engesa",
+                "FNM",
+                "Farus",
+                "Gurgel",
+                "Hofstetter",
+                "Lobini",
+                "Santa Matilde",
+                "Vemag",
+                "Envemo",
+                "JPX"
+            ]
+        },
+        "Bulgaria": {
+            "current": [
+                "Litex",
+                "SIN"
+            ],
+            "defunct": [
+                "Bulgaralpine",
+                "Bulgarrenault",
+                "Moskvych",
+                "Pirin-Fiat",
+                "Sofia"
+            ]
+        }
+    },
+    "C": {
+        "Canada": {
+            "current": [
+                "Bombardier",
+                "Campagna",
+                "Dupont",
+                "Dynasty",
+                "Felino Corporation",
+                "HTT",
+                "Intermeccanica",
+                "INKAS",
+                "New Flyer",
+                "Nova Bus",
+                "Prevost",
+                "Terradyne",
+                "ZENN"
+            ],
+            "defunct": [
+                "Acadian",
+                "Asuna",
+                "Bricklin",
+                "Brooks",
+                "Can-Am",
+                "Derby",
+                "Gray-Dort",
+                "Manic",
+                "McLaughlin",
+                "Meteor",
+                "Orion",
+                "Redpath",
+                "Russell",
+                "Studebaker"
+            ]
+        },
+        "China": {
+            "current": [
+                "BAW",
+                "Brilliance",
+                "BYD",
+                "Changan",
+                "Changhe",
+                "Chery",
+                "Dadi Auto",
+                "GAC Fiat",
+                "Foton",
+                "Geely",
+                "Gonow",
+                "Great Wall",
+                "Hafei",
+                "Haima",
+                "Jiangling",
+                "Landwind",
+                "Lifan Group",
+                "Mycar / EuAuto",
+                "NIO",
+                "Qoros",
+                "SAIC Motor",
+                "Soueast",
+                "Wuling",
+                "Zotye"
+            ],
+            "defunct": [
+                "Emgrand",
+                "Nanjing Fiat"
+            ]
+        },
+        "Croatia": {
+            "current": [
+                "DOK-ING",
+                "Rimac"
+            ]
+        },
+        "Czech Republic": {
+            "current": [
+                "\u0160koda",
+                "Tatra",
+                "Avia",
+                "Kaipan",
+                "Praga"
+            ],
+            "defunct": [
+                "Aero",
+                "Jawa",
+                "LIAZ",
+                "Velorex",
+                "Walter Fiat"
+            ]
+        }
+    },
+    "D": {
+        "Denmark": {
+            "current": [
+                "Zenvo"
+            ]
+        }
+    },
+    "E": {
+        "Ethiopia": {
+            "current": [
+                "Marathon Motors Engineering",
+                "Holland Car (defunct)"
+            ]
+        }
+    },
+    "F": {
+        "Finland": {
+            "current": [
+                "Valmet Automotive",
+                "Electric Raceabout",
+                "Toroidion"
+            ]
+        },
+        "France": {
+            "current": [
+                "Aixam",
+                "Alpine",
+                "Bollor\u00e9",
+                "Bugatti",
+                "Citro\u00ebn",
+                "Exagon",
+                "Ligier",
+                "Microcar",
+                "Peugeot",
+                "PGO",
+                "Renault"
+            ],
+            "defunct": [
+                "A\u00e9rocar\u00e8ne",
+                "Bellanger",
+                "Berliet",
+                "Decauville",
+                "De Dion-Bouton",
+                "Delage",
+                "Delahaye",
+                "Delaunay-Belleville",
+                "Facel Vega",
+                "Hommell",
+                "Matra",
+                "Mors",
+                "Panhard",
+                "Rochet-Schneider",
+                "Simca",
+                "Talbot"
+            ]
+        }
+    },
+    "G": {
+        "Germany": {
+            "current": [
+                "Alpina",
+                "Apollo",
+                "Artega",
+                "Audi",
+                "Bitter",
+                "BMW",
+                "Borgward Group",
+                "Isdera",
+                "MAN",
+                "Mercedes-Benz",
+                "Multicar",
+                "Neoplan",
+                "Opel",
+                "Porsche",
+                "Smart",
+                "Volkswagen",
+                "Wiesmann"
+            ],
+            "defunct": [
+                "Adler",
+                "AGA",
+                "Auto Union",
+                "AWZ",
+                "Barkas",
+                "Borgward",
+                "Brennabor",
+                "B\u00fcssing",
+                "DKW",
+                "D\u00fcrkopp",
+                "Glas",
+                "Goliath",
+                "Gumpert",
+                "Hanomag",
+                "Hansa",
+                "Heinkel",
+                "Horch",
+                "Karmann",
+                "Lloyd",
+                "Maybach",
+                "Messerschmitt",
+                "NAG",
+                "NSU",
+                "Robur",
+                "Simson",
+                "Stoewer",
+                "Tempo",
+                "Trabant",
+                "Wanderer",
+                "Wartburg",
+                "Zundapp"
+            ]
+        },
+        "Ghana": {
+            "current": [
+                "Kantanka"
+            ]
+        },
+        "Greece": {
+            "current": [
+                "ELVO",
+                "Korres",
+                "Namco",
+                "Replicar Hellas",
+                "Sfakianakis",
+                "Tangalakis-Temax"
+            ],
+            "defunct": [
+                "Alta",
+                "Attica",
+                "Autokinitoviomihania Ellados",
+                "Automeccanica",
+                "Balkania",
+                "BET",
+                "Biamax",
+                "BIOMAN",
+                "DIM",
+                "MAVA-Renault",
+                "MEBEA",
+                "Neorion",
+                "Pan-Car",
+                "Theologou"
+            ]
+        }
+    },
+    "I": {
+        "India": {
+            "current": [
+                "Ashok Leyland",
+                "Bajaj",
+                "Bharat Benz",
+                "Chinkara",
+                "Eicher",
+                "Escorts",
+                "Force",
+                "Hero",
+                "Heavy Vehicles Factory",
+                "Hindustan",
+                "Hradyesh",
+                "KAL",
+                "Kinetic Engineering Limited",
+                "LML",
+                "Mahindra",
+                "Maruti",
+                "Ordnance Factory Medak",
+                "Premier",
+                "Royal Enfield",
+                "Standard (defunct)",
+                "Swaraj",
+                "TAFE",
+                "Tata",
+                "TVS",
+                "Vehicle Factory Jabalpur"
+            ]
+        },
+        "Iran": {
+            "current": [
+                "Bahman",
+                "Iran Khodro",
+                "Kish Khodro",
+                "MVM",
+                "Pars Khodro",
+                "SAIPA"
+            ]
+        },
+        "Israel": {
+            "current": [
+                "Autocars",
+                "Carmor",
+                "Plasan"
+            ],
+            "defunct": [
+                "AIL"
+            ]
+        },
+        "Italy": {
+            "current": [
+                "Abarth",
+                "Alfa Romeo",
+                "Bremach",
+                "Casalini",
+                "Covini",
+                "DR Motor",
+                "Ducati",
+                "FCA",
+                "Ferrari",
+                "Fiat",
+                "Iveco",
+                "Lancia",
+                "Lamborghini",
+                "Maserati",
+                "Mazzanti",
+                "Minardi",
+                "Pagani",
+                "Piaggio",
+                "Vespa",
+                "Vignale",
+                "Zagato"
+            ],
+            "defunct": [
+                "Ansaldo",
+                "Aquila",
+                "A.S.A.",
+                "A.T.S.",
+                "Autobianchi",
+                "Aurea",
+                "Bandini",
+                "Bizzarrini",
+                "Ceirano",
+                "Chiribiri",
+                "Cisitalia",
+                "Cizeta",
+                "De Tomaso",
+                "Diatto",
+                "F.L.A.G.",
+                "Innocenti",
+                "Intermeccanica",
+                "Iso",
+                "Isotta Fraschini",
+                "Itala",
+                "Junior",
+                "Lambretta",
+                "Marca-Tre-Spade",
+                "Moretti",
+                "Nardi",
+                "O.M.",
+                "O.S.C.A.",
+                "Qvale",
+                "Rapid",
+                "S.C.A.T.",
+                "Siata",
+                "S.P.A.",
+                "Stanguellini",
+                "Storero",
+                "Zust"
+            ]
+        }
+    },
+    "J": {
+        "Japan": {
+            "current": [
+                "Asahi",
+                "Ohta",
+                "Otomo",
+                "Prince",
+                "Tommykaira"
+            ],
+            "defunct": [
+                "Mobius Motors"
+            ]
+        }
+    },
+    "K": {
+        "Kenya": {
+            "current": [
+                "Mobius Motors"
+            ]
+        }
+    },
+    "L": {
+        "Latvia": {
+            "current": [
+                "Dartz",
+                "Ford-Vairogs (defunct)",
+                "Latvija (defunct)"
+            ]
+        },
+        "Lebanon": {
+            "current": [
+                "W Motors"
+            ]
+        },
+        "Luxembourg": {
+            "current": [
+                "MDI"
+            ]
+        }
+    },
+    "M": {
+        "Malaysia": {
+            "current": [
+                "Bufori",
+                "DefTech",
+                "Inokom",
+                "Modenas",
+                "Naza",
+                "Perodua",
+                "Proton"
+            ]
+        },
+        "Mexico": {
+            "current": [
+                "DINA",
+                "Italika",
+                "Mastretta",
+                "Ramirez (defunct)",
+                "VAM (defunct)"
+            ]
+        },
+        "Monaco": {
+            "current": [
+                "Venturi[1]"
+            ]
+        },
+        "Morocco": {
+            "current": [
+                "Laraki",
+                "Renault Somaca",
+                "Fiat Somaca (defunct)"
+            ]
+        },
+        "Myanmar": {
+            "current": [
+                "Shan Star"
+            ]
+        }
+    },
+    "N": {
+        "Netherlands": {
+            "current": [
+                "Burton",
+                "Carver",
+                "DAF",
+                "Dakar",
+                "Donkervoort",
+                "Spijkstaal",
+                "Spyker",
+                "Vandenbrink",
+                "VDL Berkhof",
+                "Vencer"
+            ]
+        },
+        "New Zealand": {
+            "current": [
+                "Anziel",
+                "Saker Cars",
+                "Trekka"
+            ]
+        },
+        "Nigeria": {
+            "current": [
+                "Innoson Motors"
+            ]
+        }
+    },
+    "P": {
+        "Pakistan": {
+            "current": [
+                "Atlas Honda",
+                "Honda Atlas Cars Pakistan",
+                "Dewan Farooque Motors",
+                "Ghandhara Nissan",
+                "Ghandhara Industries",
+                "Heavy Industries Taxila",
+                "Hinopak",
+                "Master",
+                "Millat Tractors",
+                "Pak Suzuki",
+                "Indus Motors Company",
+                "Yamaha Motor Pakistan",
+                "Al-Ghazi Tractors",
+                "Sazgar",
+                "Sohrab Cycles",
+                "Adam Motor Company (Defunct)",
+                "Nexus Automotive (Defunct)"
+            ]
+        },
+        "Philippines": {
+            "current": [
+                "Delta (defunct)"
+            ]
+        },
+        "Poland": {
+            "current": [
+                "AMZ",
+                "Arrinera",
+                "Autosan",
+                "Jelcz",
+                "Solaris",
+                "Ursus"
+            ],
+            "defunct": [
+                "FSC \u017buk",
+                "FSM",
+                "FSO",
+                "FSR Tarpan",
+                "Intrall",
+                "Star",
+                "Syrena",
+                "Warszawa",
+                "ZSD Nysa"
+            ]
+        },
+        "Portugal": {
+            "current": [
+                "Vinci",
+                "Bravia (defunct)",
+                "Portaro (defunct)",
+                "UMM (defunct)"
+            ]
+        }
+    },
+    "R": {
+        "Romania": {
+            "current": [
+                "Dacia",
+                "ROMAN"
+            ],
+            "defunct": [
+                "ARO",
+                "Oltcit",
+                "Rocar"
+            ]
+        },
+        "Russia": {
+            "current": [
+                "Avtoframos",
+                "Avtotor",
+                "Derways",
+                "IZh",
+                "Kamaz",
+                "Lada",
+                "Sollers",
+                "UAZ",
+                "ZiL"
+            ],
+            "defunct": [
+                "Amur",
+                "GAZ (Volga)",
+                "Marussia",
+                "Moskvitch",
+                "Russo-Balt",
+                "SeAZ",
+                "TagAZ",
+                "Yo-Mobile"
+            ]
+        }
+    },
+    "S": {
+        "Saudi Arabia": {
+            "current": [
+                "KSU Gazal-1"
+            ]
+        },
+        "Serbia": {
+            "current": [
+                "FAP",
+                "FAS",
+                "Ikarbus",
+                "IMT",
+                "Neobus",
+                "Zastava",
+                "IDA (defunct)",
+                "Yugo (defunct)"
+            ]
+        },
+        "Slovenia": {
+            "current": [
+                "Adria Mobil"
+            ],
+            "defunct": [
+                "TAM[2]"
+            ]
+        },
+        "South Africa": {
+            "current": [
+                "Advanced Automotive Design",
+                "Perana Performance Group"
+            ],
+            "defunct": [
+                "AAD"
+            ]
+        },
+        "South Korea": {
+            "current": [
+                "CT&T United",
+                "Daewoo Bus",
+                "Genesis",
+                "GM Korea",
+                "Hyundai",
+                "Kia",
+                "Renault Samsung",
+                "SsangYong",
+                "Tata Daewoo"
+            ],
+            "defunct": [
+                "Asia Motors",
+                "Daewoo",
+                "Keohwa",
+                "Proto",
+                "Saehan",
+                "Samsung",
+                "Shinjin",
+                "Sibal"
+            ]
+        },
+        "Spain": {
+            "current": [
+                "Abadal",
+                "Aspid",
+                "GTA",
+                "Irizar",
+                "SEAT",
+                "Tauro",
+                "Tramontana",
+                "Uro"
+            ]
+        },
+        "Sri Lanka": {
+            "current": [
+                "Micro"
+            ]
+        },
+        "Sweden": {
+            "current": [
+                "J\u00f6sse Car (defunct)",
+                "Koenigsegg",
+                "Saab (defunct)",
+                "Scania",
+                "Uniti",
+                "Volvo"
+            ]
+        },
+        "Switzerland": {
+            "current": [
+                "Leblanc",
+                "Rinspeed",
+                "Sbarro"
+            ],
+            "defunct": [
+                "Enzmann",
+                "Martini",
+                "Monteverdi",
+                "Pic-Pic"
+            ]
+        }
+    },
+    "T": {
+        "Taiwan": {
+            "current": [
+                "CMC",
+                "Luxgen",
+                "Yulon"
+            ]
+        },
+        "Thailand": {
+            "current": [
+                "Thai Rung"
+            ]
+        },
+        "Tunisia": {
+            "current": [
+                "Wallyscar"
+            ]
+        },
+        "Turkey": {
+            "current": [
+                "BMC",
+                "Diardi",
+                "Erkunt",
+                "Etox",
+                "Fiat-Tofa\u015f",
+                "FNSS",
+                "Guleryuz",
+                "Karsan",
+                "Otokar",
+                "\u00d6zaltin",
+                "Pancar Motor",
+                "Temsa",
+                "Anadol (defunct)",
+                "Devrim (defunct)"
+            ]
+        }
+    },
+    "U": {
+        "United Arab Emirates": {
+            "current": [
+                "W Motors"
+            ]
+        },
+        "United Kingdom": {
+            "current": [
+                "AC",
+                "Allard",
+                "Alvis",
+                "Ariel",
+                "Armstrong Siddeley",
+                "Ascari",
+                "Aston Martin",
+                "Austin",
+                "Austin-Healey",
+                "BAC",
+                "Bentley",
+                "Bowler",
+                "Bristol",
+                "British Leyland",
+                "Caterham",
+                "Daimler",
+                "Elva",
+                "Ginetta",
+                "GKD",
+                "Gordon Keeble",
+                "Grinnall",
+                "Healey",
+                "Hillman",
+                "Humber",
+                "Jaguar",
+                "Jensen",
+                "Jowett",
+                "Lagonda",
+                "Lanchester",
+                "Land Rover",
+                "Lister",
+                "Lotus",
+                "Marcos",
+                "McLaren",
+                "MG",
+                "Mini",
+                "Morgan",
+                "Morris",
+                "Noble",
+                "Riley",
+                "Rolls Royce",
+                "Ronart Cars",
+                "Rover",
+                "Singer",
+                "Standard",
+                "Sunbeam",
+                "Triumph",
+                "Trojan",
+                "TVR",
+                "Ultima Sports",
+                "Vauxhall",
+                "Wolseley"
+            ]
+        },
+        "United States": {
+            "current": [
+                "Buick",
+                "Cadillac",
+                "Callaway",
+                "Chevrolet",
+                "Chrysler",
+                "Detroit Electric",
+                "Dodge",
+                "E-Z-GO",
+                "Faraday",
+                "FCA",
+                "Fisker",
+                "Ford",
+                "Freightliner",
+                "GEM",
+                "GMC",
+                "Hennessey",
+                "International Harvester",
+                "Jeep",
+                "Karma",
+                "Kenworth",
+                "Lincoln",
+                "Local",
+                "Mack",
+                "Navistar",
+                "Oshkosh",
+                "Panoz",
+                "Peterbilt",
+                "Polaris",
+                "Ram",
+                "Rivian",
+                "Rossion",
+                "Saleen",
+                "SSC",
+                "Tesla",
+                "Western Star"
+            ],
+            "defunct": [
+                "Adams-Farwell",
+                "Alco",
+                "AMC",
+                "Amplex",
+                "Apollo",
+                "Apperson",
+                "Aptera",
+                "ArBenz",
+                "Auburn",
+                "Baker Electric",
+                "Bates",
+                "Brush",
+                "Cartercar",
+                "Chalmers",
+                "Chandler",
+                "Checker",
+                "Cl\u00e9net",
+                "Cole",
+                "Columbia",
+                "Continental",
+                "Cord",
+                "Crawford",
+                "Crosley",
+                "Cutting",
+                "Daniels",
+                "Davis",
+                "DeLorean",
+                "DeSoto",
+                "Doble",
+                "Dorris",
+                "Dort",
+                "Duesenberg",
+                "Durant",
+                "Eagle",
+                "Edsel",
+                "Elgin",
+                "Essex",
+                "Excalibur",
+                "Fisker",
+                "Flint",
+                "Frazer",
+                "Frontenac",
+                "Gardner",
+                "Geo",
+                "Graham-Paige",
+                "Haynes",
+                "Hudson",
+                "Hummer",
+                "Hupmobile",
+                "Hupp-Yeats",
+                "Imperial",
+                "Inter-State",
+                "Jackson",
+                "Jeffery",
+                "Kaiser",
+                "King",
+                "Kissel",
+                "Kline Kar",
+                "Knox",
+                "LaFayette",
+                "Laforza",
+                "Lambert",
+                "LaSalle",
+                "Lexington",
+                "Locomobile",
+                "Lozier",
+                "Lyons-Knight",
+                "Mack",
+                "Marmon",
+                "Maxwell",
+                "McFarlan",
+                "Mercury",
+                "Mitchell",
+                "Monarch",
+                "Monroe",
+                "Moon",
+                "Mosler",
+                "Nash",
+                "National",
+                "Nyberg",
+                "Oakland",
+                "Oldsmobile",
+                "Overland",
+                "Packard",
+                "Peerless",
+                "Pierce-Arrow",
+                "Pilot",
+                "Plymouth",
+                "Pontiac",
+                "Pope-Toledo",
+                "Pope-Tribune",
+                "Premier",
+                "Pungs Finch",
+                "Rambler",
+                "Rauch and Lang",
+                "Regal",
+                "REO",
+                "Saturn",
+                "Scripps-Booth",
+                "Simplex",
+                "Speedwell",
+                "Stanley",
+                "Star",
+                "Stearns-Knight",
+                "Sterling",
+                "Sterling Trucks",
+                "Stevens-Duryea",
+                "Stoddard-Dayton",
+                "Studebaker",
+                "Stutz",
+                "TH!NK",
+                "Thomas",
+                "Tucker",
+                "Vector",
+                "Velie",
+                "Westcott",
+                "White",
+                "Willys",
+                "Zimmer"
+            ]
+        },
+        "Uzbekistan": {
+            "current": [
+                "SAZ",
+                "GM Uzbekistan"
+            ]
+        },
+        "Ukraine": {
+            "current": [
+                "Bohdan",
+                "Etalon",
+                "KrAZ",
+                "LAZ",
+                "ZAZ",
+                "LuAZ (now part of Bogdan)"
+            ]
+        },
+        "Uruguay": {
+            "current": [
+                "Effa"
+            ]
+        }
+    },
+    "V": {
+        "Vietnam": {
+            "current": [
+                "Mekong Auto",
+                "Vinaxuki",
+                "VinFast",
+                "World Auto"
+            ]
+        }
+    }
+}
