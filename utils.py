@@ -1,7 +1,8 @@
 import urllib, json
 from bs4 import BeautifulSoup
 from timeout_decorator import timeout, TimeoutError
-import os
+import os, re, imghdr
+from PIL import Image
 def query_generator(keyword, url):
     page = 0
     while True:
@@ -34,23 +35,44 @@ def search_image(sess, query, n):
     print("-> found", str(len(result)), "images")
     return result
 
-@timeout(8)
-def get_imgf(url, save_dir):
-    urllib.request.urlretrieve(url, save_dir)
+@timeout(5)
+def get_imgf(url, save_file):
+    if os.path.isfile(save_file):
+        pass
+    else:
+        urllib.request.urlretrieve(url, save_file)
 
 
 def get_img(tup):
     indx = tup[0]
     url = tup[1]
     save_dir = tup[2]
-    print("download image...", str(indx+1).zfill(5))
-    save_dir = save_dir + str(indx+1).zfill(5) + ".jpg"
+    p = "\.(jpg|png|bmp|gif|jpeg)"
+    result = re.search(p, url ,re.IGNORECASE)
+    if result:
+        print("download image...", str(indx+1).zfill(5), end="\r")
+        save_file = save_dir + str(indx+1).zfill(5) + result.group()
+        try:
+            get_imgf(url, save_file)
+        except TimeoutError:
+            print("-->could not download image(timeout)", str(indx+1).zfill(5))
+            try:
+                os.remove(save_file)
+            except:
+                pass
+        except:
+            print("-->could not download image", str(indx+1).zfill(5))
+            try:
+                os.remove(save_file)
+            except:
+                pass
+        else:
+            try:
+                img = Image.open(save_file)
+                img = []
+            except:
+                os.remove(save_file)
 
-    try:
-        get_imgf(url, save_dir)
-    except TimeoutError:
-        # os.remove(save_dir)
-        print("could not download image(timeout)", str(indx+1).zfill(5))
-    except:
-        print("could not download image", str(indx+1).zfill(5))
+            
+
 
