@@ -5,7 +5,10 @@ from multiprocessing import Pool
 import json
 from utils import get_img
 import time
+<<<<<<< HEAD
 from PIL import Image
+=======
+>>>>>>> 6c1474b64cfe55d90e2fd2048a255557de5a439c
 
 def main():
     bot = BOT()
@@ -30,8 +33,15 @@ def main():
                         try:                                
                             os.makedirs(data_dir + i + "/" + j + "/" + k + "/" + l, exist_ok=True)
 
+<<<<<<< HEAD
                             result = bot.search_query("Automotive "+l, int(1000))
                             with Pool(8) as pool:
+=======
+                            result = bot.search_query("automotive "+l, int(1000))
+                            error = []
+                            result_list = [o for o in range(len(result))]
+                            with Pool() as pool:
+>>>>>>> 6c1474b64cfe55d90e2fd2048a255557de5a439c
                                 
                                 save_dir = data_dir + i + "/" + j + "/" + k + "/" + l + "/"
                                 save_dir_list = []
@@ -40,6 +50,7 @@ def main():
                                 pool.map(get_img, zip(range(len(result)), result, save_dir_list))
                             print("----------------------------------")
                             print("complete")
+<<<<<<< HEAD
                             print("Time: {:.0f}s".format(time.time()-time1))
                             print("----------------------------------")
                         except KeyboardInterrupt:
@@ -48,6 +59,13 @@ def main():
 
 
 
+=======
+                            print(time.time()-time1)
+
+                        except KeyboardInterrupt:
+                            sys.exit()
+        print("complete", time.time()-time1)
+>>>>>>> 6c1474b64cfe55d90e2fd2048a255557de5a439c
 
 if __name__ == "__main__":
     main()
